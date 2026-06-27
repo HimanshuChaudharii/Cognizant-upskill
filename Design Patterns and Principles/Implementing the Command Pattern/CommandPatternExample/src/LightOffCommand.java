@@ -1,8 +1,13 @@
+interface Command {
+    void execute();
+}
+
 // Concrete Command - Turns the light OFF
 public class LightOffCommand implements Command {
-    private Light light;
+    // Use Object to avoid compile-time dependency on a Light type
+    private Object light;
 
-    public LightOffCommand(Light light) {
+    public LightOffCommand(Object light) {
         this.light = light;
     }
 

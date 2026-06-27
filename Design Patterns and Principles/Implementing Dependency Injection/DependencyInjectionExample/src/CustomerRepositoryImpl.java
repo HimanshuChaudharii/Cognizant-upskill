@@ -23,3 +23,7 @@ public class CustomerRepositoryImpl {
         return customerDatabase.get(id);
     }
 }
+
+// Minimal Customer model for this example
+class Customer {
+}
