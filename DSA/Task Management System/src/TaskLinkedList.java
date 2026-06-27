@@ -5,6 +5,7 @@ public class TaskLinkedList {
         private final int taskId;
         private final String taskName;
 
+        @SuppressWarnings("unused")
         Task(int taskId, String taskName) {
             this.taskId = taskId;
             this.taskName = taskName;
