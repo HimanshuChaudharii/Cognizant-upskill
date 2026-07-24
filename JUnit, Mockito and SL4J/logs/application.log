@@ -1,0 +1,78 @@
+2026-07-24 13:47:15 INFO  c.c.t.s.ControllerServiceMockTest - Starting ControllerServiceMockTest using Java 21.0.5 with PID 5996 (started by acer in C:\Users\acer\OneDrive\Desktop\cognizant\JUnit, Mockito and SL4J)
+2026-07-24 13:47:15 INFO  c.c.t.s.ControllerServiceMockTest - No active profile set, falling back to 1 default profile: "default"
+2026-07-24 13:47:17 INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2026-07-24 13:47:17 INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2026-07-24 13:47:17 INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 2 ms
+2026-07-24 13:47:17 INFO  c.c.t.s.ControllerServiceMockTest - Started ControllerServiceMockTest in 2.173 seconds (process running for 5.923)
+2026-07-24 13:47:17 INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.cognizant.testing.spring.GlobalExceptionHandlerTest]: GlobalExceptionHandlerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-07-24 13:47:17 INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.cognizant.testing.TestingExercisesApplication for test class com.cognizant.testing.spring.GlobalExceptionHandlerTest
+2026-07-24 13:47:17 INFO  c.c.t.s.GlobalExceptionHandlerTest - Starting GlobalExceptionHandlerTest using Java 21.0.5 with PID 5996 (started by acer in C:\Users\acer\OneDrive\Desktop\cognizant\JUnit, Mockito and SL4J)
+2026-07-24 13:47:17 INFO  c.c.t.s.GlobalExceptionHandlerTest - No active profile set, falling back to 1 default profile: "default"
+2026-07-24 13:47:18 INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2026-07-24 13:47:18 INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2026-07-24 13:47:18 INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2026-07-24 13:47:18 INFO  c.c.t.s.GlobalExceptionHandlerTest - Started GlobalExceptionHandlerTest in 0.337 seconds (process running for 6.511)
+2026-07-24 13:47:18 INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.cognizant.testing.spring.IntegrationMockBeanTest]: IntegrationMockBeanTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-07-24 13:47:18 INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.cognizant.testing.TestingExercisesApplication for test class com.cognizant.testing.spring.IntegrationMockBeanTest
+2026-07-24 13:47:18 INFO  c.c.t.spring.IntegrationMockBeanTest - Starting IntegrationMockBeanTest using Java 21.0.5 with PID 5996 (started by acer in C:\Users\acer\OneDrive\Desktop\cognizant\JUnit, Mockito and SL4J)
+2026-07-24 13:47:18 INFO  c.c.t.spring.IntegrationMockBeanTest - No active profile set, falling back to 1 default profile: "default"
+2026-07-24 13:47:18 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-07-24 13:47:18 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 44 ms. Found 1 JPA repository interface.
+2026-07-24 13:47:18 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-07-24 13:47:18 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.5.2.Final
+2026-07-24 13:47:18 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2026-07-24 13:47:19 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-07-24 13:47:19 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-07-24 13:47:19 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA
+2026-07-24 13:47:19 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-07-24 13:47:20 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-07-24 13:47:20 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-07-24 13:47:20 WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-07-24 13:47:20 INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2026-07-24 13:47:20 INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2026-07-24 13:47:20 INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2026-07-24 13:47:20 INFO  c.c.t.spring.IntegrationMockBeanTest - Started IntegrationMockBeanTest in 2.717 seconds (process running for 9.27)
+2026-07-24 13:47:20 INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.cognizant.testing.spring.UserControllerMockMvcTest]: UserControllerMockMvcTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-07-24 13:47:20 INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.cognizant.testing.TestingExercisesApplication for test class com.cognizant.testing.spring.UserControllerMockMvcTest
+2026-07-24 13:47:21 INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.cognizant.testing.spring.UserControllerPostTest]: UserControllerPostTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-07-24 13:47:21 INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.cognizant.testing.TestingExercisesApplication for test class com.cognizant.testing.spring.UserControllerPostTest
+2026-07-24 13:47:21 INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.cognizant.testing.spring.UserIntegrationTest]: UserIntegrationTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-07-24 13:47:21 INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.cognizant.testing.TestingExercisesApplication for test class com.cognizant.testing.spring.UserIntegrationTest
+2026-07-24 13:47:21 INFO  c.c.t.spring.UserIntegrationTest - Starting UserIntegrationTest using Java 21.0.5 with PID 5996 (started by acer in C:\Users\acer\OneDrive\Desktop\cognizant\JUnit, Mockito and SL4J)
+2026-07-24 13:47:21 INFO  c.c.t.spring.UserIntegrationTest - No active profile set, falling back to 1 default profile: "default"
+2026-07-24 13:47:21 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-07-24 13:47:21 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 11 ms. Found 1 JPA repository interface.
+2026-07-24 13:47:21 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-07-24 13:47:21 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2026-07-24 13:47:21 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-07-24 13:47:21 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2026-07-24 13:47:21 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection conn10: url=jdbc:h2:mem:testdb user=SA
+2026-07-24 13:47:21 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2026-07-24 13:47:21 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-07-24 13:47:21 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-07-24 13:47:21 WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-07-24 13:47:21 INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2026-07-24 13:47:21 INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2026-07-24 13:47:21 INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2026-07-24 13:47:21 INFO  c.c.t.spring.UserIntegrationTest - Started UserIntegrationTest in 0.553 seconds (process running for 10.137)
+2026-07-24 13:47:21 INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.cognizant.testing.spring.UserRepositoryQueryTest]: UserRepositoryQueryTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-07-24 13:47:21 INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.cognizant.testing.TestingExercisesApplication for test class com.cognizant.testing.spring.UserRepositoryQueryTest
+2026-07-24 13:47:21 INFO  c.c.t.spring.UserRepositoryQueryTest - Starting UserRepositoryQueryTest using Java 21.0.5 with PID 5996 (started by acer in C:\Users\acer\OneDrive\Desktop\cognizant\JUnit, Mockito and SL4J)
+2026-07-24 13:47:21 INFO  c.c.t.spring.UserRepositoryQueryTest - No active profile set, falling back to 1 default profile: "default"
+2026-07-24 13:47:21 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-07-24 13:47:21 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 9 ms. Found 1 JPA repository interface.
+2026-07-24 13:47:22 INFO  o.s.b.t.a.j.TestDatabaseAutoConfiguration$EmbeddedDataSourceBeanFactoryPostProcessor - Replacing 'dataSource' DataSource bean with embedded version
+2026-07-24 13:47:22 INFO  o.s.j.d.e.EmbeddedDatabaseFactory - Starting embedded database: url='jdbc:h2:mem:7ce20f75-9469-4dba-b504-08a0cfe2e149;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2026-07-24 13:47:22 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-07-24 13:47:22 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2026-07-24 13:47:22 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-07-24 13:47:22 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-07-24 13:47:22 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-07-24 13:47:22 INFO  c.c.t.spring.UserRepositoryQueryTest - Started UserRepositoryQueryTest in 0.259 seconds (process running for 10.579)
+2026-07-24 13:47:22 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-07-24 13:47:22 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2026-07-24 13:47:22 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2026-07-24 13:47:22 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-07-24 13:47:22 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2026-07-24 13:47:22 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2026-07-24 13:47:22 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'

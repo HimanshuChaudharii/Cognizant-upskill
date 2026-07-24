@@ -1,0 +1,6 @@
+C:\Users\acer\OneDrive\Desktop\cognizant\Microservice\api-gateway\src\main\java\com\cognizant\microservice\gateway\ApiGatewayApplication.java
+C:\Users\acer\OneDrive\Desktop\cognizant\Microservice\api-gateway\src\main\java\com\cognizant\microservice\gateway\config\GatewayRoutes.java
+C:\Users\acer\OneDrive\Desktop\cognizant\Microservice\api-gateway\src\main\java\com\cognizant\microservice\gateway\controller\FallbackController.java
+C:\Users\acer\OneDrive\Desktop\cognizant\Microservice\api-gateway\src\main\java\com\cognizant\microservice\gateway\filter\LocalRateLimitFilter.java
+C:\Users\acer\OneDrive\Desktop\cognizant\Microservice\api-gateway\src\main\java\com\cognizant\microservice\gateway\filter\LoggingFilter.java
+C:\Users\acer\OneDrive\Desktop\cognizant\Microservice\api-gateway\src\main\java\com\cognizant\microservice\gateway\filter\ResponseCacheMarkerFilter.java
